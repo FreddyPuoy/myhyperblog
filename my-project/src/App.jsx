@@ -25,8 +25,6 @@ function App() {
         <p className='text-white font-light text-xl'>Este es un parrafo de inicio donde voy a escribir algo que seguramente te va a encantar</p>
       </div>
     </div>
-
-
   )
 }
 
