@@ -26,13 +26,14 @@ function App() {
           <p>
             Cuando se trata de desarrollar aplicaciones web con React, la elección de las herramientas adecuadas puede marcar una gran diferencia en la eficiencia y la estética de tu proyecto. Una combinación que ha estado ganando popularidad y demostrando su valía es la sinergia entre React y Tailwind CSS. En este post, exploraremos cómo esta poderosa combinación puede llevar tus proyectos al siguiente nivel.
           </p>
-
+          <br />
           <h2>
             Un Encuentro Armonioso de Potencia y Agilidad
           </h2>
           <p>
             React, conocido por su enfoque en la creación de interfaces de usuario dinámicas y componentes reutilizables, se fusiona perfectamente con Tailwind CSS, un framework de diseño utilitario que facilita la construcción de diseños consistentes y atractivos. Tailwind CSS aborda el diseño de manera modular, permitiéndote aplicar estilos a través de clases predefinidas, lo que se alinea maravillosamente con la filosofía de componentes de React.
           </p>
+          <br />
           <h2>
             Ventajas de Combinar React y Tailwind
           </h2>
