@@ -2,10 +2,10 @@ import './App.css'
 
 function App() {
   return (
-    <div className='w-full h-auto px-20 bg-gradient-to-b from-violet-950 to-indigo-700'>
+    <div className='w-full h-auto px-20 bg-gradient-to-b from-amber-500 to-red-900'>
       <div className='w-full p-5 flex gap-10 flex-row justify-between mb-20'>
         <div>
-          <span className='font-bold text-4xl text-white'>Freddy Puoy</span>
+          <span className='font-bold text-4xl text-white'>Un zorrito main</span>
         </div>
         <div className='flex items-center text-white'>
           <ul className='flex flex-row gap-5 font-light'>
@@ -64,6 +64,7 @@ function App() {
           <p>
             ¡Así que adelante, comienza tu viaje con React y Tailwind, y descubre cómo esta fusión puede transformar tus proyectos en obras maestras modernas y funcionales!
           </p>
+          <p>Hola suscribete y dale like a este post main</p>
         </article>
 
       </div>
