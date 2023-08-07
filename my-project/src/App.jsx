@@ -2,10 +2,10 @@ import './App.css'
 
 function App() {
   return (
-    <div className='w-full h-auto px-20 bg-gradient-to-b from-amber-500 to-red-900'>
+    <div className='w-full h-screen px-20 bg-gradient-to-b from-orange-500 to-amber-900'>
       <div className='w-full p-5 flex gap-10 flex-row justify-between mb-20'>
         <div>
-          <span className='font-bold text-4xl text-white'>Un zorrito main</span>
+          <span className='font-bold text-4xl text-white'>Un furro programador</span>
         </div>
         <div className='flex items-center text-white'>
           <ul className='flex flex-row gap-5 font-light'>
