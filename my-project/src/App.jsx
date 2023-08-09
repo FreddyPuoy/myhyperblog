@@ -10,7 +10,7 @@ function App() {
               <img className='w-full h-full' src="/src/assets/logo.svg" alt="" />
             </picture>
             <div>
-              <span className='font-bold text-4xl text-white'>Freddy Puoy</span>
+              <span className='font-semibold text-4xl text-white'>Freddy Puoy</span>
             </div>
           </div>
           <div className='flex items-center text-white'>
