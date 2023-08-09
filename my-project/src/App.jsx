@@ -2,21 +2,28 @@ import './App.css'
 
 function App() {
   return (
-    <div className='w-full h-screen px-20 bg-gradient-to-b from-orange-500 to-amber-900'>
-      <div className='w-full p-5 flex gap-10 flex-row justify-between mb-20'>
-        <div>
-          <span className='font-bold text-4xl text-white'>Un furro programador</span>
-        </div>
-        <div className='flex items-center text-white'>
-          <ul className='flex flex-row gap-5 font-light'>
-            <li>Inicio</li>
-            <li>Sobre Mi</li>
-            <li>Proyectos</li>
-            <li>Blog</li>
-            <li>Contacto</li>
-          </ul>
-        </div>
-      </div>
+    <div className='w-full h-screen px-20 bg-gradient-to-b from-slate-950 via-slate-900 to-slate-800'>
+      <section className=''>
+        <header className='w-full p-5 flex gap-10 flex-row justify-between mb-20'>
+          <div className='flex gap-5'>
+            <picture className='w-10 h-auto'>
+              <img className='w-full h-full' src="/src/assets/logo.svg" alt="" />
+            </picture>
+            <div>
+              <span className='font-bold text-4xl text-white'>Freddy Puoy</span>
+            </div>
+          </div>
+          <div className='flex items-center text-white'>
+            <div className='flex gap-2 font-light'>
+              <a className='w-24 text-center p-2'>Inicio</a>
+              <a className='w-24 text-center p-2'>Sobre Mi</a>
+              <a className='w-24 text-center p-2'>Proyectos</a>
+              <a className='w-24 text-center p-2'>Blog</a>
+              <a className='w-24 text-center p-2'>Contacto</a>
+            </div>
+          </div>
+        </header>
+      </section>
       <div className='w-full h-auto border border-violet-600 rounded-3xl m-auto py-8 px-8 gap-5 flex flex-col'>
         <p className='uppercase text-gray-300 text-sm font-medium text-center'>blogpost</p>
         <article className='text-gray-300 text-left'>
