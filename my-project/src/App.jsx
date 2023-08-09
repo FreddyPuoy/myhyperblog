@@ -72,7 +72,7 @@ function App() {
             <p>Hola suscribete y dale like a este post main</p>
           </article>
         </div>
-      <footer className='w-full h-12 flex flex-row justify-between px-20 py-4 font-medium text-white bg-slate-950'>
+      <footer className='w-full h-12 flex flex-row justify-between px-20 py-4 font-medium text-white'>
         <div>
           <p>Hecho para el curso de Platzi</p>
         </div>
