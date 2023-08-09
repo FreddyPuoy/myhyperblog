@@ -16,7 +16,7 @@ function App() {
           <div className='flex items-center text-white'>
             <div className='flex gap-2 font-light'>
               <a className='w-24 text-center p-2'>Inicio</a>
-              <a className='w-24 text-center p-2'>Sobre Mi</a>
+              <a className='w-24 text-center p-2'>Sobre Mí</a>
               <a className='w-24 text-center p-2'>Proyectos</a>
               <a className='w-24 text-center p-2'>Blog</a>
               <a className='w-24 text-center p-2'>Contacto</a>
