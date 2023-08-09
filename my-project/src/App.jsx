@@ -3,7 +3,6 @@ import './App.css'
 function App() {
   return (
     <div className='w-full h-screen bg-gradient-to-b from-orange-500 to-amber-900'>
-      <div className='px-20'>
         <div className='w-full p-5 flex gap-10 flex-row justify-between mb-20'>
           <div>
             <span className='font-bold text-4xl text-white'>Un furro programador</span>
@@ -68,7 +67,6 @@ function App() {
             <p>Hola suscribete y dale like a este post main</p>
           </article>
         </div>
-      </div>
       <footer className='w-full h-12 flex flex-row justify-between px-20 py-4 font-medium text-white bg-slate-950'>
         <div>
           <p>Hecho para el curso de Platzi</p>
