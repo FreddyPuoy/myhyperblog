@@ -9,13 +9,13 @@ function App() {
             <span className='font-bold text-4xl text-white'>Un furro programador</span>
           </div>
           <div className='flex items-center text-white'>
-            <ul className='flex flex-row gap-5 font-light'>
-              <li>Inicio</li>
-              <li>Sobre Mi</li>
-              <li>Proyectos</li>
-              <li>Blog</li>
-              <li>Contacto</li>
-            </ul>
+            <div className='flex gap-2 font-light'>
+              <a className='w-24 text-center p-2'>Inicio</a>
+              <a className='w-24 text-center p-2'>Sobre Mí</a>
+              <a className='w-24 text-center p-2'>Proyectos</a>
+              <a className='w-24 text-center p-2'>Blog</a>
+              <a className='w-24 text-center p-2'>Contacto</a>
+            </div>
           </div>
         </div>
         <div className='w-full h-auto border border-violet-600 rounded-3xl m-auto py-8 px-8 gap-5 flex flex-col'>
